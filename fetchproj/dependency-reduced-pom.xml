@@ -7,7 +7,6 @@
   <version>1.0</version>
   <url>http://www.example.com</url>
   <build>
-    <sourceDirectory>src\main\java</sourceDirectory>
     <plugins>
       <plugin>
         <artifactId>maven-clean-plugin</artifactId>
